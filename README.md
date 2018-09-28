@@ -1,7 +1,6 @@
-# MaskBlog
-
 ![image](https://user-images.githubusercontent.com/6481461/46198784-dba24180-c33f-11e8-9014-5337daba57f7.png)
-[所有文章](https://github.com/mask2012/MaskBlog/issues)
+
+### [所有文章](https://github.com/mask2012/MaskBlog/issues)
 
 ### star和watch
 喜欢请点右上角 `star`。订阅的话，请 `watch` 按钮，这样有更新你会收到通知。
