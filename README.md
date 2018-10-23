@@ -2,6 +2,8 @@
 
 ### [所有文章](https://github.com/mask2012/MaskBlog/issues)
 
+### github里阅读字体会偏小，建议ctrl +/-  改变浏览器字号阅读更爽
+
 ### star和watch
 喜欢请点右上角 `star`。订阅的话，请 `watch` 按钮，这样有更新你会收到通知。
 
