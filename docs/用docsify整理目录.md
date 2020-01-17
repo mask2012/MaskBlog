@@ -74,7 +74,12 @@ search: {
     hideOtherSidebarContent: true, // whether or not to hide other sidebar content
 },
 ```
-
+### emoji
+对于emoji文档里没有跳详细说明，所以需要自己测试一下
+https://docsify.js.org/#/plugins?id=emoji  
+```
+<script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+```
 
 ### 图标
 在[https://fontawesome.com](https://fontawesome.com)注册后，会给你分配一段引用的脚本，放到index.html里就行了
