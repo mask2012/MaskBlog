@@ -1,0 +1,34 @@
+:root{
+    /* 侧边栏链接文字颜色 */
+    --theme-hue: 17;
+    --theme-saturation: 20%;
+    --theme-lightness: 43%;
+
+    /* 侧边栏背景色*/
+    --sidebar-background:#edf4f8;
+    
+    /* 正文最大宽度 */
+    --content-max-width:1800px;
+
+}
+
+.markdown-section{
+    margin: 0 20px;
+}
+
+
+/* 搜索栏 */
+.sidebar .search input[type="search"]{
+    color: #000;
+}
+.sidebar .search .clear-button svg circle {
+    fill: rgba(126, 180, 213, 0.3);
+}
+
+.sidebar-toggle .sidebar-toggle-button{
+    background:rgba(126, 180, 213, 0.3);
+}
+
+.sidebar-nav li.active>a, .sidebar-nav li.collapse>a{ border-color: #3a8f99; color: #3a8f99;}
+
+.markdown-section footer{ padding-top: 140px; color: #999;}
